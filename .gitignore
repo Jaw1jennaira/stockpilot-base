@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Runtime state — NEVER commit. state/agent-key.json holds a private key.
+state/
+*.log
+
+# Secrets / environment
+.env
+.env.*
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

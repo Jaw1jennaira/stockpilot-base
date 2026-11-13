@@ -1,0 +1,68 @@
+{
+  "fetched_at": "2026-11-12T07:30:00Z",
+  "source": "https://api.coinbase.com/v1/tokenized-stocks",
+  "note": "Mainnet B20 reference only \u2014 these tokens do NOT exist on Base Sepolia testnet; StockPilot trades mirror tokens priced from this NAV.",
+  "tokens": {
+    "TSLAc": {
+      "contract_address": "0xb2000000000000000000001e800a7f5189430cD0",
+      "name": "Tesla Inc.",
+      "decimals": 8,
+      "isin": "US88160R1014",
+      "multiplier": 1,
+      "nav_price": 387.07,
+      "nav_price_updated_at": "2026-11-11T23:07:56Z",
+      "total_supply": 6425.21798762
+    },
+    "GOOGLc": {
+      "contract_address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "decimals": 8,
+      "isin": "US02079K3059",
+      "multiplier": 1.0003771186767842,
+      "nav_price": 295.37634994,
+      "nav_price_updated_at": "2026-11-12T00:49:37Z",
+      "total_supply": 35325.42510323
+    },
+    "NVDAc": {
+      "contract_address": "0xb20000000000000000000078ee7ce2fE4908108C",
+      "name": "NVIDIA Corporation",
+      "decimals": 8,
+      "isin": "US67066G1040",
+      "multiplier": 1.0005379395763694,
+      "nav_price": 161.03245534,
+      "nav_price_updated_at": "2026-11-12T06:24:42Z",
+      "total_supply": 43842.64284571
+    },
+    "MSFTc": {
+      "contract_address": "0xB200000000000000000000Ab99cFa739E253872B",
+      "name": "Microsoft Corporation",
+      "decimals": 8,
+      "isin": "US5949181045",
+      "multiplier": 1,
+      "nav_price": 520.369,
+      "nav_price_updated_at": "2026-11-11T23:23:26Z",
+      "total_supply": 2737.44120621
+    },
+    "AAPLc": {
+      "contract_address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "decimals": 8,
+      "isin": "US0378331005",
+      "multiplier": 1,
+      "nav_price": 356.55,
+      "nav_price_updated_at": "2026-11-11T22:25:31Z",
+      "total_supply": 6088.40361951
+    },
+    "AMZNc": {
+      "contract_address": "0xb200000000000000000000d9192b6B456483C2E8",
+      "name": "Amazon.com Inc.",
+      "decimals": 8,
+      "isin": "US0231351067",
+      "multiplier": 1,
+      "nav_price": 265.43615544,
+      "nav_price_updated_at": "2026-11-12T02:42:59Z",
+      "total_supply": 7607.17071438
+    }
+  },
+  "total_listed_page1_3": 300
+}
